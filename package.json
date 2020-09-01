@@ -1,0 +1,19 @@
+{
+  "name": "fork-tiny-compiler",
+  "version": "0.0.1",
+  "description": "mini compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulChess/fork-tiny-compiler.git"
+  },
+  "author": "paulChess <sjq15251852316@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulChess/fork-tiny-compiler/issues"
+  },
+  "homepage": "https://github.com/PaulChess/fork-tiny-compiler#readme"
+}
